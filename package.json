@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start:kata1": "tsx src/kata1.ts",
-    "start:kata2": "tsx src/kata2.ts"
+    "start:kata2": "tsx src/kata2.ts",
+    "start:kata4": "tsx src/kata4.ts"
   },
   "keywords": [],
   "author": "Daniel Zeballos",
